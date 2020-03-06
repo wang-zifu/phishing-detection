@@ -1,0 +1,12 @@
+__pycache__/
+
+# data
+data/
+
+# bert
+bert_logs/
+bert_models/
+
+# tpot
+tpot_pipelines/
+tpot_scores/
