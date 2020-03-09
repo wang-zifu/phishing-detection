@@ -2,10 +2,12 @@ __pycache__/
 
 # data
 data/
+label/
 
 # bert
 bert_logs/
 bert_models/
+bert_scores/
 
 # tpot
 tpot_pipelines/
