@@ -320,7 +320,7 @@ def feature_extract(urls, csv):
         return
     
     features = pd.DataFrame(features)
-    features.to_csv(csv)
+    features.to_csv(csv, index=False)
 
 
 if __name__ == '__main__':
